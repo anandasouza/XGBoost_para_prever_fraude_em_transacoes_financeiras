@@ -1,0 +1,2 @@
+# XGBoost_para_prever_fraude_em_transacoes_financeiras
+XGBoos para prever fraude em transações de criptomoedas
